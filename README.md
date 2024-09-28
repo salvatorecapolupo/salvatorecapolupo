@@ -1,6 +1,6 @@
 - 👋 Ciao! Sono @salvatorecapolupo
-- 👀 Mi interessano: informatica
-- 🌱 Insegno / faccio consulenze
+- 👀 Sito: https://salvatorecapolupo.github.io/about-me/
+- 🌱 Insegno informatica / faccio consulenze
 - 📫 Contatti: s.capolupo@gmail.com
 
 <!---
